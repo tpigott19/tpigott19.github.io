@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Turner's Blog"
+title: "lunching and learning"
 tagline: I.Now.Code.
 ---
 {% include JB/setup %}
