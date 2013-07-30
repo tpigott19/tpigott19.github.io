@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Building My Blog!"
+title: "Turner's Blog"
 tagline: I.Now.Code.
 ---
 {% include JB/setup %}
