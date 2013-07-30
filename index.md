@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Hello World!
-tagline: Supporting tagline
+title: "Building My Blog!"
+tagline: I.Now.Code.
 ---
 {% include JB/setup %}
 
